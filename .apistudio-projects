@@ -4,3 +4,8 @@ projects:
     tags:
       - first
     lastUpdated: 1732516169778
+  first copy:
+    description: First Project
+    tags:
+      - first
+    lastUpdated: 1732516355434
