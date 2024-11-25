@@ -1,9 +1,4 @@
 projects:
-  int:
-    description: First Project
-    tags:
-      - first
-    lastUpdated: 1732516116645
   first:
     description: First Project
     tags:
