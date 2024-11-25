@@ -1,5 +1,6 @@
 projects:
   int:
-    description: ''
-    tags: []
-    lastUpdated: 1732515903105
+    description: First Project
+    tags:
+      - first
+    lastUpdated: 1732516116645
