@@ -3,10 +3,6 @@ projects:
     description: ''
     tags: []
     lastUpdated: 1732519490734
-  first-new:
-    description: new description
-    tags: []
-    lastUpdated: 1732802217133
   first:
     description: new description
     tags: []
