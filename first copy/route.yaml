@@ -8,7 +8,6 @@ metadata:
     - routing
     - route
     - policy
-    - tag
 spec:
   default-endpoint:
     $ref: dev:default_endpoint:1.0
