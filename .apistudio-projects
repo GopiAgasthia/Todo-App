@@ -7,8 +7,3 @@ projects:
     description: new description
     tags: []
     lastUpdated: 1732803956457
-  third:
-    description: ''
-    tags:
-      - third
-    lastUpdated: 1732804409421
