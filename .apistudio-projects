@@ -12,8 +12,3 @@ projects:
     tags:
       - third
     lastUpdated: 1732804409421
-  fourth:
-    description: Fourth Project
-    tags:
-      - fourth
-    lastUpdated: 1733217437217
