@@ -1,8 +1,4 @@
 projects:
-  second:
-    description: ''
-    tags: []
-    lastUpdated: 1732519490734
   first:
     description: new description
     tags: []
