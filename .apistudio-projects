@@ -49,3 +49,7 @@ projects:
     tags:
       - second
     lastUpdated: 1733326039446
+  first copy copy 1:
+    description: new description
+    tags: []
+    lastUpdated: 1733326049535
