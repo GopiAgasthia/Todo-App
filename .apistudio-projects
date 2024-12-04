@@ -13,8 +13,3 @@ projects:
     tags:
       - third
     lastUpdated: 1733221847473
-  second copy:
-    description: new description
-    tags:
-      - second
-    lastUpdated: 1733230952090
