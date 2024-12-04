@@ -26,3 +26,7 @@ projects:
     tags:
       - second
     lastUpdated: 1733325977516
+  first copy 2:
+    description: new description
+    tags: []
+    lastUpdated: 1733325986421
