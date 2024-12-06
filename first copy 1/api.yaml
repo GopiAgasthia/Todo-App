@@ -8,6 +8,7 @@ metadata:
     - swagger
     - daso
     - sample
+    - tag
   type: REST
 spec:
   api-spec: 
