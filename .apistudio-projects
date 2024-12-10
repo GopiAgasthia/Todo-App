@@ -8,11 +8,3 @@ projects:
     tags:
       - second
     lastUpdated: 1733325854068
-  first copy:
-    description: new description
-    tags: []
-    lastUpdated: 1733830276587
-  third:
-    description: ''
-    tags: []
-    lastUpdated: 1733830297132
