@@ -4,8 +4,8 @@ projects:
     tags:
       - second
     lastUpdated: 1733325854068
-  first-edit:
+  first:
     description: new description
     tags:
       - first
-    lastUpdated: 1733988189387
+    lastUpdated: 1733988653786
