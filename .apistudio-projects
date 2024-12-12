@@ -10,3 +10,9 @@ projects:
       - first
       - edit
     lastUpdated: 1733988666202
+  first-edit:
+    description: new description
+    tags:
+      - first
+      - edit
+    lastUpdated: 1733993383645
