@@ -1,12 +1,1 @@
-projects:
-  second:
-    description: new description
-    tags:
-      - second
-    lastUpdated: 1733325854068
-  first:
-    description: new description
-    tags:
-      - first
-      - edit
-    lastUpdated: 1734419767139
+projects: {}
